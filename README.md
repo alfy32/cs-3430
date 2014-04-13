@@ -1,4 +1,4 @@
-cs-3430
+CS-3430 - Python/Perl
 =======
 
-Python &amp; Perl - Vladimir Kulyukin
+Taught Spring 2013 by Vladimir Kulyukin
